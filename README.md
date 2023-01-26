@@ -1,2 +1,2 @@
 # hci.jhu.edu
-hci.jhug
+intuitivecomputing.github.io
